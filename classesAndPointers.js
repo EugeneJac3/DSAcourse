@@ -47,11 +47,11 @@
 
 // NOTES - Pointers
 
-let obj1 = {
-        value: 11
-}
+// let obj1 = {
+//         value: 11
+// }
 
-let obj2 = obj1
+// let obj2 = obj1
 
 // When you set a variable equal to an object, you are saying  obj1 "points" to this object.
 // When you make obj2 = obj1, you are literally saying make obj2 point to obj 1 (not setting the value of obj1 at the time of variable creation)
